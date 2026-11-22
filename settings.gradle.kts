@@ -1,0 +1,1 @@
+rootProject.name = "java-streams-gatherers-lab3"
